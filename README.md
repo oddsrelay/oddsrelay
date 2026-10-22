@@ -1,6 +1,6 @@
 # OddsRelay
 
-Pre-match odds API for UK and Irish bookmakers, bet365 included, with Betfair, Smarkets, Matchbook and BETDAQ lay prices. Matched boards and raw prices as JSON, over one REST API.
+Pre-match odds API for UK and Irish bookmakers, bet365 included, with Betfair, Smarkets and Matchbook lay prices. Matched boards and raw prices as JSON, over one REST API.
 
 ## Get a key
 
